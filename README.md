@@ -1,10 +1,9 @@
 <div align='center'>
 
 <p>
-  <a href="#-Stacks">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Demonstration">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licença">License</a>
+  <a href="#-Stacks-utilizadas">Stacks Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Description">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ![image](https://user-images.githubusercontent.com/2619027/174387436-976d97f8-71fc-4b73-b523-13a23f8c3b10.png)
@@ -18,7 +17,7 @@
 </div>
 
 
-## 📋 Description
+## 📋 Descrição
 
 ### Digital Business Card
 
@@ -33,7 +32,7 @@ Apesar de simples esse projeto serviu de grande aprendizado, pude praticar técn
 Builded with Vite
 
 
-## Demonstration
+## Demonstração
 
 ![digital_business_card_demo](https://user-images.githubusercontent.com/2619027/174386722-01399bf4-b4c6-4045-a530-f5d7453fd177.gif)
 
