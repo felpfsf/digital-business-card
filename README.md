@@ -3,7 +3,7 @@
 <p>
   <a href="#-Stack">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Digital">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Demonstration">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Licença">License</a>
 </p>
 
@@ -31,7 +31,7 @@ Apesar de simples esse projeto serviu de grande aprendizado, pude praticar técn
 Builded with Vite
 
 
-## Demonstração
+## Demonstration
 
 ![digital_business_card_demo](https://user-images.githubusercontent.com/2619027/174386722-01399bf4-b4c6-4045-a530-f5d7453fd177.gif)
 
