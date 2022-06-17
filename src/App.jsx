@@ -13,6 +13,7 @@ import { MdOutlineDarkMode, MdOutlineLightMode } from 'react-icons/md'
 import { Content } from './components/Content'
 import { ProfileImage } from './components/Header/ProfileImage'
 import { Footer } from './components/Footer/Footer'
+import { Attribuition } from './components/Attribuition/Attribuition'
 
 const Container = styled.div`
   margin-top: 25px;
@@ -69,6 +70,7 @@ function App() {
           <ProfileImage />
           <Content />
           <Footer />
+          <Attribuition />
         </Container>
       </>
     </ThemeProvider>
