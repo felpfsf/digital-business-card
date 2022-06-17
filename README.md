@@ -1,8 +1,8 @@
 <div align='center'>
 
 <p>
-  <a href="#-Stack">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Digital">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Stacks">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Demonstration">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Licença">License</a>
 </p>
@@ -20,11 +20,13 @@
 
 ## 📋 Description
 
+### Digital Business Card
+
 Um cartão de visitas digital tirado de um desafio proposto no curso de ReactJS pela freecodecamp.org. 
 
 Apesar de simples esse projeto serviu de grande aprendizado, pude praticar técnicas de componentização para as seções do cartão, o uso de hooks(useState) e ThemeProvider do styled components para a criação do switcher  de tema light e dark.
 
-## 🛠 Stack
+## 🛠 Stacks Utilizadas
 
 **Front-end:** React, Styled Components
 
