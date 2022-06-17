@@ -3,7 +3,7 @@
 <p>
   <a href="#-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Stacks-utilizadas">Stacks Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Demonstração">Demonstração</a>
 </p>
 
 ![image](https://user-images.githubusercontent.com/2619027/174387436-976d97f8-71fc-4b73-b523-13a23f8c3b10.png)
