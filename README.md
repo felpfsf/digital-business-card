@@ -3,7 +3,9 @@
 <p>
   <a href="#-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Stacks-utilizadas">Stacks Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Demonstração">Demonstração</a>
+  <a href="#-Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Autor">Autor</a>
+  
 </p>
 
 ![image](https://user-images.githubusercontent.com/2619027/174387436-976d97f8-71fc-4b73-b523-13a23f8c3b10.png)
@@ -24,6 +26,7 @@
 Um cartão de visitas digital tirado de um desafio proposto no curso de ReactJS pela freecodecamp.org. 
 
 Apesar de simples esse projeto serviu de grande aprendizado, pude praticar técnicas de componentização para as seções do cartão, o uso de hooks(useState) e ThemeProvider do styled components para a criação do switcher  de tema light e dark.
+
 
 ## 🛠 Stacks Utilizadas
 
