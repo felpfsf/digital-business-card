@@ -18,7 +18,7 @@
 </div>
 
 
-## 📋 Digital Business Card
+## 📋 Description
 
 Um cartão de visitas digital tirado de um desafio proposto no curso de ReactJS pela freecodecamp.org. 
 
